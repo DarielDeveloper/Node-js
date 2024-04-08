@@ -1,0 +1,1 @@
+Hola mundo desde archivo2. Prueba de lectura y escritura de archivo con node js.
